@@ -1,2 +1,4 @@
 # OCD40_Keyboard
-A planck-like keyboard, compatible with qmk
+
+###This is a planck-like keyboard with both PCB file and case file.
+
